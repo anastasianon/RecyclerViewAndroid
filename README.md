@@ -1,2 +1,2 @@
 # RecyclerViewAndroid
-<img src="recyclerAndroid.gif" alt="video demo" height="600"/>
+<img src="RecyclerAndroid.gif" alt="video demo" height="600"/>
